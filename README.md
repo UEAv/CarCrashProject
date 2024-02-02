@@ -4,6 +4,7 @@
 This project contains data analysis of car crashes within a specific location over a certain period of time. The dataset includes various parameters such as year, month, day, weekend, hour, collision type, injury type, primary factors, reported location, latitude, and longitude. The analysis aims to understand patterns and trends in car crashes within the specified area.
 
 ## Visualization:
+link: https://public.tableau.com/app/profile/victor.usiobaifoh/viz/carcrashproject/Story1
 The analysis is visualized using Tableau and includes the following visualizations:
 
 Line Chart - Number of Car Crashes per Year:
